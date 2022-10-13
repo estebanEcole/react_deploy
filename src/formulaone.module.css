@@ -1,0 +1,30 @@
+.F1{
+    background-color: #414141;
+    color: whitesmoke;
+    border-radius: .5rem;
+    height: 5rem;
+}
+
+.spacer{
+    height: 1.5rem;
+}
+.aButton{
+    color: deepskyblue;
+    text-decoration: none;
+    border-radius: 2rem;
+    background-color: #525252;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding: 1rem 2rem;
+}
+.textButton {
+
+}
+.divButton{
+    display: flex;
+    height: 5rem;
+    margin-left: auto;
+}
+.interiorDivButton{
+    margin: auto;
+}

@@ -1,0 +1,40 @@
+.login{
+    background-color: #414141;
+    color: whitesmoke;
+    border-radius: .5rem;
+    margin: auto;
+}
+.interior{
+    padding: 1rem 1rem 1rem 2rem;
+    display: flex;
+    margin: auto;
+}
+.nameInput{
+    height: 1rem;
+    margin: auto 1rem;
+}
+.button{
+    background-color: royalblue;
+    border-radius: 10rem;
+    font-size: 1.5rem;
+    border: none;
+    transition-duration: .2s;
+}
+.button:hover{
+    transition-duration: .2s;
+    background-color: #3859be;
+}
+.button:hover .buttonText{
+    transition-duration: .2s;
+}
+.button .buttonText{
+    transition-duration: .2s;
+    color: whitesmoke;
+    padding: 1rem;
+}
+.nameValide{
+    color: #00ff00;
+}
+.nameNoValide{
+    color: #ff0000;
+}

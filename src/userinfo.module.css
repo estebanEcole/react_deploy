@@ -1,0 +1,13 @@
+.login{
+    background-color: #414141;
+    color: whitesmoke;
+    border-radius: .5rem;
+    margin: auto;
+}
+.interior{
+    padding: 1rem 1rem 1rem 2rem;
+    margin: auto;
+}
+td{
+    margin: .5rem;
+}

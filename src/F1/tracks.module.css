@@ -1,0 +1,31 @@
+.F1{
+    background-color: #414141;
+    color: whitesmoke;
+    border-radius: .5rem;
+    margin: auto;
+}
+.interior{
+    padding: 1rem 1rem 1rem 2rem;
+    display: flex;
+    margin: auto;
+}
+.column1{
+    width: 20rem;
+    text-align: center;
+}
+.column2{
+    width: 8rem;
+    text-align: center;
+}
+.column3{
+    width: 12rem;
+    text-align: center;
+}
+.column4{
+    width: 8rem;
+    text-align: center;
+}
+.biography{
+    text-decoration: none;
+    color: deepskyblue;
+}
